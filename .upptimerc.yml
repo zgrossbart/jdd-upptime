@@ -5,10 +5,10 @@ repo: jdd-upptime # The name of this repository
 sites:
   - name: JSONDiff
     url: https://www.jsondiff.com
-	icon: https://jsondiff.com/favicon.ico
+    icon: https://jsondiff.com/favicon.ico
   - name: JSONDiff Base
     url: https://jsondiff.com
-	icon: https://jsondiff.com/favicon.ico
+    icon: https://jsondiff.com/favicon.ico
 
 assignees: # Users to assign downtime issues (optional)
   - zgrossbart
