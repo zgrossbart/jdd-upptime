@@ -7,7 +7,7 @@ sites:
     url: https://www.jsondiff.com
   - name: JSONDiff Base
     url: https://jsondiff.com
-	
+
 assignees: # Users to assign downtime issues (optional)
   - zgrossbart
 
