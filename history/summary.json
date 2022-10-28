@@ -4,10 +4,10 @@
     "url": "https://www.jsondiff.com",
     "icon": "https://jsondiff.com/favicon.ico",
     "slug": "json-diff",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 338,
@@ -15,26 +15,28 @@
     "timeWeek": 344,
     "timeMonth": 338,
     "timeYear": 338,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-28": 1
+    }
   },
   {
     "name": "JSONDiff Base",
     "url": "https://jsondiff.com",
     "icon": "https://jsondiff.com/favicon.ico",
     "slug": "json-diff-base",
-    "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "97.61%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "status": "down",
+    "uptime": "99.95%",
+    "uptimeDay": "98.45%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
     "time": 325,
     "timeDay": 308,
     "timeWeek": 335,
     "timeMonth": 325,
     "timeYear": 325,
     "dailyMinutesDown": {
-      "2022-10-28": 34
+      "2022-10-28": 22
     }
   }
 ]
