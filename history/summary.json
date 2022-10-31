@@ -4,19 +4,19 @@
     "url": "https://www.jsondiff.com",
     "icon": "https://jsondiff.com/favicon.ico",
     "slug": "json-diff",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "97.83%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "97.12%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 370,
-    "timeDay": 716,
-    "timeWeek": 456,
-    "timeMonth": 362,
+    "timeDay": 637,
+    "timeWeek": 452,
+    "timeMonth": 363,
     "timeYear": 370,
     "dailyMinutesDown": {
-      "2022-10-31": 31
+      "2022-10-31": 41
     }
   },
   {
