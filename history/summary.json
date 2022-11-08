@@ -5,18 +5,18 @@
     "icon": "https://jsondiff.com/favicon.ico",
     "slug": "json-diff",
     "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.34%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.83%",
+    "uptime": "99.76%",
+    "uptimeDay": "96.82%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.76%",
     "time": 528,
     "timeDay": 1690,
     "timeWeek": 1003,
     "timeMonth": 590,
     "timeYear": 528,
     "dailyMinutesDown": {
-      "2022-11-08": 0,
+      "2022-11-08": 46,
       "2022-11-05": 66,
       "2022-10-31": 31
     }
@@ -26,7 +26,7 @@
     "url": "https://jsondiff.com",
     "icon": "https://jsondiff.com/favicon.ico",
     "slug": "json-diff-base",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.93%",
@@ -38,6 +38,7 @@
     "timeMonth": 465,
     "timeYear": 418,
     "dailyMinutesDown": {
+      "2022-11-08": 0,
       "2022-11-05": 108,
       "2022-10-28": 22
     }
