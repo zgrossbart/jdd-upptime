@@ -28,7 +28,7 @@
     "url": "https://jsondiff.com",
     "icon": "https://jsondiff.com/favicon.ico",
     "slug": "json-diff-base",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
     "uptimeDay": "97.35%",
     "uptimeWeek": "99.44%",
@@ -40,6 +40,7 @@
     "timeMonth": 949,
     "timeYear": 632,
     "dailyMinutesDown": {
+      "2022-12-04": 0,
       "2022-12-03": 38,
       "2022-11-29": 18,
       "2022-11-23": 60,
