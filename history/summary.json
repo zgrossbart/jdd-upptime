@@ -4,7 +4,7 @@
     "url": "https://www.jsondiff.com",
     "icon": "https://jsondiff.com/favicon.ico",
     "slug": "json-diff",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.74%",
@@ -16,6 +16,7 @@
     "timeMonth": 968,
     "timeYear": 838,
     "dailyMinutesDown": {
+      "2023-02-27": 0,
       "2023-02-24": 24,
       "2023-02-23": 2,
       "2023-02-01": 18,
