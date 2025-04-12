@@ -6,17 +6,16 @@
     "slug": "json-diff",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "63.65%",
-    "uptimeMonth": "91.57%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "63.71%",
+    "uptimeMonth": "91.58%",
     "uptimeYear": "99.24%",
     "time": 288,
-    "timeDay": 318,
-    "timeWeek": 330,
+    "timeDay": 283,
+    "timeWeek": 327,
     "timeMonth": 344,
     "timeYear": 306,
     "dailyMinutesDown": {
-      "2025-04-11": 6,
       "2025-04-09": 719,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
@@ -28,8 +27,7 @@
       "2025-02-14": 18,
       "2025-01-16": 41,
       "2024-06-27": 56,
-      "2024-05-16": 20,
-      "2024-04-12": 115
+      "2024-05-16": 20
     }
   },
   {
@@ -39,17 +37,16 @@
     "slug": "json-diff-base",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "63.66%",
-    "uptimeMonth": "91.57%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "63.72%",
+    "uptimeMonth": "91.58%",
     "uptimeYear": "99.23%",
-    "time": 263,
-    "timeDay": 303,
+    "time": 264,
+    "timeDay": 305,
     "timeWeek": 323,
-    "timeMonth": 338,
-    "timeYear": 289,
+    "timeMonth": 334,
+    "timeYear": 290,
     "dailyMinutesDown": {
-      "2025-04-11": 6,
       "2025-04-09": 719,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
@@ -61,8 +58,7 @@
       "2025-02-14": 18,
       "2025-01-16": 40,
       "2024-06-27": 56,
-      "2024-05-16": 19,
-      "2024-04-12": 172
+      "2024-05-16": 19
     }
   }
 ]
