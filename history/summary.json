@@ -6,13 +6,13 @@
     "slug": "json-diff",
     "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "72.33%",
-    "uptimeWeek": "79.73%",
-    "uptimeMonth": "87.06%",
-    "uptimeYear": "98.80%",
+    "uptimeDay": "70.25%",
+    "uptimeWeek": "79.71%",
+    "uptimeMonth": "86.99%",
+    "uptimeYear": "98.79%",
     "time": 369,
     "timeDay": 313,
-    "timeWeek": 403,
+    "timeWeek": 404,
     "timeMonth": 371,
     "timeYear": 376,
     "dailyMinutesDown": {
@@ -53,7 +53,7 @@
       "2026-06-13": 3,
       "2026-06-15": 343,
       "2026-06-16": 398,
-      "2026-06-17": 0
+      "2026-06-17": 30
     }
   },
   {
@@ -63,10 +63,10 @@
     "slug": "json-diff-base",
     "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "72.41%",
-    "uptimeWeek": "80.06%",
-    "uptimeMonth": "87.37%",
-    "uptimeYear": "98.84%",
+    "uptimeDay": "70.33%",
+    "uptimeWeek": "80.04%",
+    "uptimeMonth": "87.30%",
+    "uptimeYear": "98.83%",
     "time": 358,
     "timeDay": 296,
     "timeWeek": 312,
@@ -109,7 +109,7 @@
       "2026-06-13": 3,
       "2026-06-15": 333,
       "2026-06-16": 397,
-      "2026-06-17": 0
+      "2026-06-17": 30
     }
   }
 ]
