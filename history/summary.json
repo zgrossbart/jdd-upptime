@@ -6,10 +6,10 @@
     "slug": "json-diff",
     "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "84.81%",
-    "uptimeWeek": "87.48%",
-    "uptimeMonth": "80.83%",
-    "uptimeYear": "98.40%",
+    "uptimeDay": "78.22%",
+    "uptimeWeek": "86.54%",
+    "uptimeMonth": "80.61%",
+    "uptimeYear": "98.38%",
     "time": 358,
     "timeDay": 312,
     "timeWeek": 338,
@@ -45,7 +45,7 @@
       "2026-07-16": 182,
       "2026-07-17": 207,
       "2026-07-18": 219,
-      "2026-07-19": 0
+      "2026-07-19": 95
     }
   },
   {
@@ -55,14 +55,14 @@
     "slug": "json-diff-base",
     "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "84.86%",
-    "uptimeWeek": "87.56%",
-    "uptimeMonth": "80.90%",
-    "uptimeYear": "98.41%",
+    "uptimeDay": "78.27%",
+    "uptimeWeek": "86.61%",
+    "uptimeMonth": "80.69%",
+    "uptimeYear": "98.39%",
     "time": 346,
     "timeDay": 367,
     "timeWeek": 332,
-    "timeMonth": 309,
+    "timeMonth": 308,
     "timeYear": 347,
     "dailyMinutesDown": {
       "2026-06-20": 299,
@@ -94,7 +94,7 @@
       "2026-07-16": 181,
       "2026-07-17": 207,
       "2026-07-18": 218,
-      "2026-07-19": 0
+      "2026-07-19": 95
     }
   }
 ]
