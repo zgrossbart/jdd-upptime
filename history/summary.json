@@ -4,15 +4,15 @@
     "url": "https://www.jsondiff.com",
     "icon": "https://jsondiff.com/favicon.ico",
     "slug": "json-diff",
-    "status": "down",
-    "uptime": "99.56%",
-    "uptimeDay": "90.23%",
-    "uptimeWeek": "84.25%",
-    "uptimeMonth": "79.98%",
-    "uptimeYear": "98.31%",
+    "status": "up",
+    "uptime": "99.55%",
+    "uptimeDay": "83.61%",
+    "uptimeWeek": "83.31%",
+    "uptimeMonth": "79.92%",
+    "uptimeYear": "98.30%",
     "time": 357,
-    "timeDay": 275,
-    "timeWeek": 321,
+    "timeDay": 291,
+    "timeWeek": 322,
     "timeMonth": 322,
     "timeYear": 363,
     "dailyMinutesDown": {
@@ -46,7 +46,7 @@
       "2026-07-18": 219,
       "2026-07-19": 405,
       "2026-07-20": 239,
-      "2026-07-21": 79
+      "2026-07-21": 175
     }
   },
   {
@@ -54,16 +54,16 @@
     "url": "https://jsondiff.com",
     "icon": "https://jsondiff.com/favicon.ico",
     "slug": "json-diff-base",
-    "status": "down",
-    "uptime": "99.56%",
-    "uptimeDay": "90.59%",
-    "uptimeWeek": "84.34%",
-    "uptimeMonth": "80.15%",
-    "uptimeYear": "98.32%",
+    "status": "up",
+    "uptime": "99.55%",
+    "uptimeDay": "83.98%",
+    "uptimeWeek": "83.39%",
+    "uptimeMonth": "80.10%",
+    "uptimeYear": "98.30%",
     "time": 346,
-    "timeDay": 275,
-    "timeWeek": 329,
-    "timeMonth": 307,
+    "timeDay": 310,
+    "timeWeek": 333,
+    "timeMonth": 308,
     "timeYear": 347,
     "dailyMinutesDown": {
       "2026-06-20": 56,
@@ -97,7 +97,7 @@
       "2026-07-18": 218,
       "2026-07-19": 405,
       "2026-07-20": 239,
-      "2026-07-21": 74
+      "2026-07-21": 169
     }
   }
 ]
